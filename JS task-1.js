@@ -1,3 +1,0 @@
-function makeTransaction(quantity, pricePerDroid) {
-    
-}
